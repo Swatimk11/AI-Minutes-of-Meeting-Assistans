@@ -1,0 +1,5 @@
+{
+  "name": "AI Meeting Minutes Assistant",
+  "description": "An intelligent web application to track, manage, and summarize your meeting minutes using the power of Gemini. Add new meetings by providing a summary, and let the AI extract key details like title, attendees, and action items. A built-in chat assistant helps you analyze and interact with your saved meetings.",
+  "requestFramePermissions": []
+}
